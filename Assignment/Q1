@@ -1,1 +1,71 @@
 
+//Calculation class
+
+public class Calculation {
+
+}
+
+//Conversion class
+
+public class Conversion {
+	
+	
+	double KMToMiles(double distance) {
+		return 0;
+	}
+	
+	double MilesToKM(double distance) {
+		return 0;
+	}
+	
+	double FeetToMetres(double distance) {
+		return 0;
+	}
+	
+	double MetresToFeet(double distance) {
+		return 0;
+	}
+	
+	double KgToPounds(double weight) {
+		return 0;
+	}
+	
+	double PoundsToKg(double weight) {
+		return 0;
+	}
+	
+	double CelciusToFahrenheit(double temperature) {
+		return 0;
+	}
+	
+	double FahrenheightToCelcius(double temperature) {
+		return 0;
+	}
+	
+}
+
+//Menu class
+
+
+public class Menu {
+	
+	void displayMainMenu() {
+		
+	}
+	void displayConversionSubMenu() {
+		
+	}
+	void displayCalculationSubMenu() {
+		
+	}
+	void displayConversionLengthSubmenu() {
+		
+	}
+	void displayConversionWeightSubmenu() {
+		
+	}
+	void displayConversionTemperatureSubmenu() {
+		
+	}
+	
+}
